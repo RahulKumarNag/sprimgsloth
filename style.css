@@ -17,12 +17,12 @@ body {
 
 @font-face {
   font-family: MyCustomFont;
-  src: url(/organic_relief/OrganicRelief.ttf);
+  src: url(organic_relief/OrganicRelief.ttf);
 }
 
 @font-face {
   font-family: MyCustomFont2;
-  src: url(/creato_display/CreatoDisplay-Medium.otf);
+  src: url(creato_display/CreatoDisplay-Medium.otf);
 }
 
 
